@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "prismatik2mqtt": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
