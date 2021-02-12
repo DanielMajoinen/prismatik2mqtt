@@ -1,8 +1,10 @@
 # prismatik2mqtt
 
-Modify appsettings.json or use environment variables to set configuration to your needs.
+1. Enable server (API via sockets) in Prismatik -> Settings -> Experimental. 
 
-Add the following light to home assistant:
+2. Modify appsettings.json or use environment variables to set configuration to your needs.
+
+3. Add the following light to home assistant:
 ```
 light:
   - platform: mqtt
